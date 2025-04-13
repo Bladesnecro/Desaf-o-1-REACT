@@ -10,7 +10,7 @@ Este proyecto fue desarrollado como parte del **Hito 1 del curso de React** de D
 - Componentes reutilizables (`CardPizza`, `Navbar`, `Header`, `Footer`)
 - Estilización con Bootstrap y estilos personalizados
 - Botón de total con diseño destacado
-- Precios en color plata para dar un toque visual elegante
+- Precios en color  para dar un toque visual elegante
 
 ## 🛠️ Tecnologías utilizadas
 
