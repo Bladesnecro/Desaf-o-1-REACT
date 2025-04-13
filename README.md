@@ -1,9 +1,6 @@
-# Proyecto React + Vite
-# Pizzería Mamma Mia
+REACT 
 
-¡Bienvenido a **Pizzería Mamma Mia**! Esta es una aplicación web donde podrás explorar deliciosas pizzas,
- conocer los ingredientes de cada una y hacer tu pedido de manera fácil y rápida.
+Pizzería Mamma Mia
 
-### Tecnologías usadas
-- React
-- Bootstrap
+C0NTACTO para sugerencias o consultas:
+maxforamont@live.cl
